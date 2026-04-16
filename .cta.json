@@ -1,0 +1,21 @@
+{
+  "projectName": "test-tanstackconvex",
+  "mode": "file-router",
+  "typescript": true,
+  "packageManager": "npm",
+  "includeExamples": false,
+  "tailwind": true,
+  "addOnOptions": {},
+  "envVarValues": {
+    "CONVEX_DEPLOYMENT": "test-tanstack-convex",
+    "VITE_CONVEX_URL": "test"
+  },
+  "git": false,
+  "routerOnly": false,
+  "version": 1,
+  "framework": "react",
+  "chosenAddOns": [
+    "shadcn",
+    "convex"
+  ]
+}
